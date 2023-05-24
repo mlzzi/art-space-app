@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="gustav_klimt">Gustav Klimt</string>
+    <string name="portrait_of_adele_bloch_bauer_i">Portrait of Adele Bloch-Bauer I</string>
+    <string name="vincent_van_gogh">Vincent van Gogh</string>
+    <string name="self_portrait_with_felt_hat">Self portrait with Felt Hat</string>
+    <string name="giuseppe_arcimboldo">Giuseppe Arcimboldo</string>
+    <string name="vertumnus">Vertumnus</string>
+    <string name="leonardo_da_vinci">Leonardo da Vinci</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="johannes_vermeer">Johannes Vermeer</string>
+    <string name="girl_with_a_pearl_earring">Girl with a Pearl Earring</string>
+</resources>
