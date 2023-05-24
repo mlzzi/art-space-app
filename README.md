@@ -15,8 +15,7 @@
 
 Users should be able to:
 
-- Click on the buttons and select the correct layout: vertical, horizontal or grid
-- Navigate through the layouts scrolling the screen and visualizing the images and descriptions of the items
+- Click on the buttons and navigate between screens of each art peace.
 
 ### Screenshot
 
@@ -24,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/mlzzi/Dogglers-app)
+- Solution URL: [Solution](https://github.com/mlzzi/art-space-app)
 
 ## My process
 
@@ -32,10 +31,11 @@ Users should be able to:
 
 - Android Studio
 - Kotlin
+- Jetpack Compose
 
 ### What I learned
 
-This is the second Project Challenge done on the Developer`s Google Learn website from the Course 'Android Basics in Kotlin'
+This is my first project challenge from the Google`s course of Basics of Jetpack Compose
 
 ### Continued development
 
